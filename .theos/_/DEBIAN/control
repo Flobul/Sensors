@@ -1,0 +1,10 @@
+Package: com.flobul.sensors
+Name: sensors
+Architecture: iphoneos-arm
+Description: Read values from thermal sensors, voltage meters, and current meters on iPhone/iPad
+Maintainer: Flobul
+Author: Flobul
+Section: System
+Tag: role::hacker
+Version: 0.1.0-2+debug
+Installed-Size: 260
