@@ -1,6 +1,6 @@
 # Sensors
 
-Lis les valeurs depuis les capteurs de température, de tension et de courantdes iPad/iPhone.
+Lis les valeurs depuis les capteurs de température, de tension et de courant des iPad/iPhone.
 
 Cet outil utilise une librairie privée qui n'est pas officielle sur iPhone/iPad : IOKit.
 
